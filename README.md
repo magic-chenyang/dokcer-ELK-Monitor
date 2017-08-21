@@ -4,3 +4,6 @@
 日志记录：Logstash聚集和加工，Elasticsearch作为数据存储和Kibana作为前端
 监控:cAdvisor收集信息,Prometheus存储,Grafara图形
 报警:Prometheus里的alertmanager插件,报警集合使用onealert.
+
+## cadvisor+influxdb+grafana
+https://botleg.com/stories/monitoring-docker-swarm-with-cadvisor-influxdb-and-grafana/
